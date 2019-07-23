@@ -1,22 +1,15 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Research Week One
+description: Research for week one of Project and Portfolio 6
 image: assets/images/pic05.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+Which user story and server-side functionality will you focus on developing code for in Week #2?  Explain.
+What concepts can you research in order to assist you in developing this server-side requirement?  Explain.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
+1) The user story I will be focusing on this week will be connecting and reading from the database. Concepts I can research would be MERN Stack for starters. Because my application is a React app, I will be using MySql, Express and Node.js.
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+2) A major advantage for using LAMP would be that it is more customizable, such as changing Apache for NGINX or replacing MySql for PostgreSQL. A major a advantage of using a MERN stack would be that it is all in JavaScript, so it becomes easier and faster to develop an app.
+
+The advantages relate to the current development because my application is a MERN stack. I get to write the code all in JavaScript.
