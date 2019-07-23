@@ -1,0 +1,19 @@
+{
+  "name": "wd6portfolio",
+  "version": "1.0.0",
+  "description": "A Jekyll version of the \"Forty\" theme by [HTML5 UP](https://html5up.net/).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pmritchie/wd6portfolio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pmritchie/wd6portfolio/issues"
+  },
+  "homepage": "https://github.com/pmritchie/wd6portfolio#readme"
+}
