@@ -7,5 +7,5 @@ image: null
 author: null
 show_tile: false
 ---
-
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+## About Me
+This is where I will be sharing my progress from my WD6 Portfolio class. This will include weekly blog posts highlighting different parts of the design process in my CPR Re-Vamp of an old front end project to a complete MERN Full Stack application.
