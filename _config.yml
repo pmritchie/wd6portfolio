@@ -6,12 +6,12 @@ description: Welcome to my web portfolio site<br /> go ahead and click-about.
 baseurl: "/wd6portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
+street_address:
+city: Orlando
+state: FL
+zip_code: 32792
 country: United States of America
-phone: (716) 555-5555
+phone: (260) 341-0119
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -20,14 +20,14 @@ tiles-count: 6
 # social settings
 500px_url:
 facebook_url:
-github_url:
-gitlab_url: https://gitlab.com/u/andrewbanchich
-googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
-instagram_url: https://instagram.com
-linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+github_url: https://github.com/pmritchie
+gitlab_url: 
+googleplus_url: 
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/patrick-ritchie89/
 pinterest_url:
 slack_url:
-twitter_url: https://twitter.com/andrewbanchich
+twitter_url: 
 
 # build settings
 markdown: kramdown

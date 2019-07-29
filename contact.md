@@ -1,7 +1,7 @@
 ---
-title: Contact
+title: Projects
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Here are some projects<br />MERN and LAMP stacks.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
@@ -12,10 +12,6 @@ nav-menu: true
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
 
@@ -23,65 +19,52 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
+			<img src="assets/images/squid-quiz.png" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Squid Quiz</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>In my last advanced database class, I built a quiz app designed for US Navy sailors to be able to make their own quizzes to practice for advancement exams or boards. The project was built using first vanilla JS, building a web and API server, then converting that into a React app with Node.js and Redux.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/ASL-WDD442/asl-quiz-app-pmritchie" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/tv-buff.png" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>TV-Buff</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>This app was built with React.js and pulls from TV Maze API to search for TV shows and actors. A user can search for shows and actors via search bar. A description page is loaded when the user clicks on an actor/show card and a user can also add their favorites view them later. This application is currently being converted to a MERN stack application for back end compatibility.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/pmritchie/TV-BUFF-WEBAPP" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic10.jpg" alt="" data-position="25% 25%" />
+			<img src="assets/images/php-frame.png" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>PHP Framework</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>For this project I used PHP to build a grocery cart application where the user can input what they want on a grocery list along with using Bootstrap to create the layout of the app. I used VirtualBox with Vagrant and Ubuntu to create the server and MySQL for the database. This project was also recreated using CodeIgniter framework for some experience in PHP frameworks. </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="https://github.com/pmritchie/CodeIgniter-Fruit-App" class="button">Learn more</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
 </section>
 
 </div>
